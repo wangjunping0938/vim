@@ -5,9 +5,9 @@ set -e
 cd ~/.vim
 
 echo 'set runtimepath+=~/.vim
-source ~/.vim/conf.d/basic.conf
+source ~/.vim/vimrc.d/basic.vim
 try
-	source ~/.vim/conf.d/function.conf
+	source ~/.vim/vimrc.d/function.vim
 catch
 endtry' > ~/.vimrc
 
