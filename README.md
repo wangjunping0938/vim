@@ -10,3 +10,8 @@
 
 将该项目克隆至本地的加目录下面，执行如下指令即可
 
+```
+git clone https://github.com/wangjunping0938/vim.git ~/.vim
+sh ~/.vim/vimrc_install.sh
+```
+
