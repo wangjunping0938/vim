@@ -12,6 +12,9 @@
 
 ```
 git clone https://github.com/wangjunping0938/vim.git ~/.vim
+```
+
+```
 sh ~/.vim/vimrc_install.sh
 ```
 
