@@ -18,6 +18,14 @@ git clone https://github.com/wangjunping0938/vim.git ~/.vim
 sh ~/.vim/vimrc_install.sh
 ```
 
+执行如下指令安装vim插件管理器以及插件管理器中的插件
+
+```
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+
+vim +PluginInstall +qall
+```
+
 
 ### Mac终端颜色设置
 
