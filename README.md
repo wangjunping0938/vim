@@ -27,6 +27,13 @@ vim +PluginInstall +qall
 ```
 
 
+### nerdtree插件
+
+nerdtree插件效果展示，如下图所示
+
+![](/pictures/nerdtree_show.png)
+
+
 ### Mac终端颜色设置
 
 编辑`~/.bash_profile`文件，加入如下内容至`~/.bash_profile`文件中
