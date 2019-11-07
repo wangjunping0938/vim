@@ -9,7 +9,6 @@ source ~/.vim/vimrc.d/basic.vim
 try
 	source ~/.vim/vimrc.d/function.vim
     source ~/.vim/vimrc.d/plugins.vim
-# 目录树插件设置
     source ~/.vim/vimrc.d/nerdtree_config.vim    
 catch
 endtry' > ~/.vimrc
