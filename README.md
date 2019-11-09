@@ -82,9 +82,7 @@ source ~/.bash_profile
 ```
 git clone git@github.com:powerline/fonts.git ~/.vim/fonts
 
-cd ~/.vim/fonts
-
-./install.sh
+sh ~/.vim/fonts/install.sh
 ```
 
 安装完成字体文件后设置item2终端字体，iTerm2 > preferences > Text > Use built-in
