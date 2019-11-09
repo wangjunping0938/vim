@@ -44,13 +44,9 @@ vim +PluginInstall +qall
 
 ### nerdtree插件
 
-nerdtree插件效果展示，如下图所示
-
 ![](/pictures/nerdtree_show.png)
 
 ### nerdtree-git-plugin插件
-
-nerdtree-git-plugin插件效果展示图
 
 ![](/pictures/nerdtree-git-plugin.png)
 
