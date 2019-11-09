@@ -15,4 +15,6 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 " 目录树插件
 Plugin 'scrooloose/nerdtree'
+" 目录树支持git信号标志
+Plugin 'Xuyuanp/nerdtree-git-plugin'
 call vundle#end()
