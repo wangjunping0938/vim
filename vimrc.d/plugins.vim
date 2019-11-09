@@ -19,4 +19,8 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'Xuyuanp/nerdtree-git-plugin'
 " 目录树支持标签页
 Plugin 'jistr/vim-nerdtree-tabs'
+" 状态栏美化插件
+Plugin 'vim-airline/vim-airline'
+" 状态栏主题插件
+Plugin 'vim-airline/vim-airline-themes'
 call vundle#end()
