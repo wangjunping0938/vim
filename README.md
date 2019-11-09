@@ -38,6 +38,16 @@ sh ~/.vim/vimrc_install.sh
 vim +PluginInstall +qall
 ```
 
+如果状态栏出现乱码，则需要您安装下面的字体，执行如下指令即可安装
+
+```
+git clone git@github.com:powerline/fonts.git ~/.vim/fonts
+
+cd ~/.vim/fonts
+
+./install.sh
+```
+
 
 
 ## Vim插件效果展示
