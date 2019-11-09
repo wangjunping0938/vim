@@ -17,4 +17,6 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
 " 目录树支持git信号标志
 Plugin 'Xuyuanp/nerdtree-git-plugin'
+" 目录树支持标签页
+Plugin 'jistr/vim-nerdtree-tabs'
 call vundle#end()

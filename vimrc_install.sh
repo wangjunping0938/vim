@@ -11,6 +11,7 @@ try
     source ~/.vim/vimrc.d/plugins.vim
     source ~/.vim/vimrc.d/nerdtree_config.vim    
     source ~/.vim/vimrc.d/nerdtree-git-plugin_config.vim
+    source ~/.vim/vimrc.d/vim-nerdtree-tabs_config.vim
 catch
 endtry' > ~/.vimrc
 
