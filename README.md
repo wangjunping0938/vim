@@ -26,6 +26,18 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 vim +PluginInstall +qall
 ```
 
+如果您需要安装最新版本的vim高配版，执行如下指令即可更新至最新版本
+
+```
+cd ~/.vim
+
+git pull
+
+sh ~/.vim/vimrc_install.sh
+
+vim +PluginInstall +qall
+```
+
 
 ### nerdtree插件
 
