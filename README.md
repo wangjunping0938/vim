@@ -77,6 +77,8 @@ source ~/.bash_profile
 
 ![](/pictures/item2_colors.png)
 
+### Mac下item2状态行乱码解决方法 
+
 如果使用了vim-airline插件item2状态栏出现乱码需要安装powerline字体文件并设置item2的终端字体，安装参考如下指令即可
 
 ```
