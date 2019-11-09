@@ -38,17 +38,6 @@ sh ~/.vim/vimrc_install.sh
 vim +PluginInstall +qall
 ```
 
-如果状态栏出现乱码，则需要您安装下面的字体，执行如下指令即可安装
-
-```
-git clone git@github.com:powerline/fonts.git ~/.vim/fonts
-
-cd ~/.vim/fonts
-
-./install.sh
-```
-
-
 
 ## Vim插件效果展示
 
@@ -64,6 +53,10 @@ nerdtree插件效果展示，如下图所示
 nerdtree-git-plugin插件效果展示图
 
 ![](/pictures/nerdtree-git-plugin.png)
+
+### vim-airline插件
+
+![](/pictures/vim-airline.png)
 
 
 
@@ -87,3 +80,16 @@ source ~/.bash_profile
 效果如下图所示，终端文件文件有了颜色显示
 
 ![](/pictures/item2_colors.png)
+
+如果使用了vim-airline插件item2状态栏出现乱码需要安装powerline字体文件并设置item2的终端字体，安装参考如下指令即可
+
+```
+git clone git@github.com:powerline/fonts.git ~/.vim/fonts
+
+cd ~/.vim/fonts
+
+./install.sh
+```
+
+安装完成字体文件后设置item2终端字体，iTerm2 > preferences > Text > Use built-in
+Powerline glyphs 勾选完该选项后即可正常显示状态栏字符
