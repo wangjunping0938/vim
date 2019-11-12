@@ -14,6 +14,7 @@ try
     source ~/.vim/vimrc.d/vim-nerdtree-tabs_config.vim
     source ~/.vim/vimrc.d/vim-airline_config.vim
     source ~/.vim/vimrc.d/vim-airline-themes_config.vim
+    source ~/.vim/vimrc.d/vim-colors-solarized_config.vim
 catch
 endtry' > ~/.vimrc
 

@@ -23,4 +23,6 @@ Plugin 'jistr/vim-nerdtree-tabs'
 Plugin 'vim-airline/vim-airline'
 " 状态栏主题插件
 Plugin 'vim-airline/vim-airline-themes'
+" 配色方案插件
+Plugin 'altercation/vim-colors-solarized'
 call vundle#end()
