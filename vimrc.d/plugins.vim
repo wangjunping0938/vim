@@ -25,4 +25,6 @@ Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 " 配色方案插件
 Plugin 'altercation/vim-colors-solarized'
+" 代码自动补全插件
+Plugin 'Valloric/YouCompleteMe'
 call vundle#end()
