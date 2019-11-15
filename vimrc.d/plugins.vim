@@ -27,4 +27,6 @@ Plugin 'vim-airline/vim-airline-themes'
 Plugin 'altercation/vim-colors-solarized'
 " 代码自动补全插件
 Plugin 'Valloric/YouCompleteMe'
+" python自动缩进插件
+Plugin 'vim-scripts/indentpython.vim'
 call vundle#end()

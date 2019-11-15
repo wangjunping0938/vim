@@ -16,6 +16,7 @@ try
     source ~/.vim/vimrc.d/vim-airline-themes_config.vim
     source ~/.vim/vimrc.d/vim-colors-solarized_config.vim
     source ~/.vim/vimrc.d/YouCompleteMe_config.vim
+    source ~/.vim/vimrc.d/indentpython_config.vim
 catch
 endtry' > ~/.vimrc
 

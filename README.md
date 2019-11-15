@@ -53,6 +53,8 @@ vim +PluginInstall +qall
 
 ![](/pictures/vim-airline.png)
 
+### YouCompleteMe插件
+![](/pictures/YouCompleteMe.png)
 
 
 ## MacBookPro终端相关设置
