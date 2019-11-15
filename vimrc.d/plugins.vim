@@ -29,4 +29,12 @@ Plugin 'altercation/vim-colors-solarized'
 Plugin 'Valloric/YouCompleteMe'
 " python自动缩进插件
 Plugin 'vim-scripts/indentpython.vim'
+" 缩进指示线插件
+Plugin 'Yggdroot/indentLine'
+" 括号自动补全插件
+Plugin 'jiangmiao/auto-pairs'
+" 代码折叠插件
+Plugin 'tmhedberg/SimpylFold'
+" HTML代码补全插件
+Plugin 'mattn/emmet-vim'
 call vundle#end()
