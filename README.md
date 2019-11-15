@@ -8,10 +8,15 @@
 
 ### 安装教程
 
-将该项目克隆至本地的加目录下面，执行如下指令即可
+将该项目克隆至本地的加目录下面，安装高级版vim执行如下指令即可
 ```
 git clone https://github.com/wangjunping0938/vim.git ~/.vim
 sh ~/.vim/vimrc_install.sh
+```
+
+安装基础版vim执行如下指令
+```
+sh ~/.vim/vimrc_basic_install.sh
 ```
 
 执行如下指令安装vim插件管理器以及插件管理器中的插件
@@ -40,21 +45,20 @@ vim +PluginInstall +qall
 
 ## Vim插件效果展示
 
-
 ### nerdtree插件
-
 ![](/pictures/nerdtree_show.png)
 
 ### nerdtree-git-plugin插件
-
 ![](/pictures/nerdtree-git-plugin.png)
 
 ### vim-airline插件
-
 ![](/pictures/vim-airline.png)
 
 ### YouCompleteMe插件
 ![](/pictures/YouCompleteMe.png)
+
+### SimpylFold插件
+![](/pictures/SimpylFold.png)
 
 
 ## MacBookPro终端相关设置
